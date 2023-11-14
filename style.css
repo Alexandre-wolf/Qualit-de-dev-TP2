@@ -1,0 +1,36 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+body {
+    background-color: azure;
+}
+
+li {
+    float: left;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 50px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+h2{
+    color: hotpink;
+    text-align: center;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
